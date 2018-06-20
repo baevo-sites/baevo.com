@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/baevo"]
+	path = wp-content/themes/baevo
+	url = https://github.com/baevo-sites/baevo-theme
